@@ -21,3 +21,9 @@
     text-align: center;
 }
 
+  
+.dish:hover {
+  transform: scale(1.25);          
+ cursor: pointer;                 
+}
+
