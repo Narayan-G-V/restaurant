@@ -1,0 +1,23 @@
+#a {
+    background-color: #101820;
+    font-family: Arial, sans-serif;
+}
+
+.Menu,
+.about,
+.contact {
+    color: white;
+}
+
+
+.dish {
+    display: inline-block;
+    width: 250px;
+    background-color: black;
+    margin: 20px;
+    padding: 15px;
+    border: goldenrod;
+    border-radius: 50px;
+    text-align: center;
+}
+
